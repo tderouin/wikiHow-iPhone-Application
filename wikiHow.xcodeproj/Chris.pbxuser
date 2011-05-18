@@ -1,0 +1,1010 @@
+// !$*UTF8*$!
+{
+	145402DC0F5150480015AD29 /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {433, 255}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	1D3623240D0F684500981E51 /* wikiHowAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{655, 321}";
+		};
+	};
+	1D3623250D0F684500981E51 /* wikiHowAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 3510}}";
+			sepNavSelRange = "{9483, 0}";
+			sepNavVisRange = "{2200, 269}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* wikiHow */ = {
+		activeExec = 0;
+		executables = (
+			831445850F5A918700362969 /* wikiHow */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Ad_Hoc;
+		activeExecutable = 831445850F5A918700362969 /* wikiHow */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* wikiHow */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* wikiHow */,
+		);
+		codeSenseManager = 831445A60F5A91A100362969 /* Code sense */;
+		executables = (
+			831445850F5A918700362969 /* wikiHow */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					151,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					373,
+					522,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					251,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					456,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					614,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					312.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					192,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296605881;
+			PBXWorkspaceStateSaveDate = 296605881;
+		};
+		perUserProjectItems = {
+			8309CC0D1135EC9C00DBC089 /* PBXBookmark */ = 8309CC0D1135EC9C00DBC089 /* PBXBookmark */;
+			8309CC0E1135EC9C00DBC089 /* PBXBookmark */ = 8309CC0E1135EC9C00DBC089 /* PBXBookmark */;
+			8309CC131135EC9C00DBC089 /* PBXBookmark */ = 8309CC131135EC9C00DBC089 /* PBXBookmark */;
+			8332424511656832009BF5E1 /* PBXBookmark */ = 8332424511656832009BF5E1 /* PBXBookmark */;
+			83787CB8118265980042E6B8 /* PBXBookmark */ = 83787CB8118265980042E6B8 /* PBXBookmark */;
+			83787CB9118265980042E6B8 /* PBXBookmark */ = 83787CB9118265980042E6B8 /* PBXBookmark */;
+			83A9EF2E116408E5007D5A92 /* PBXBookmark */ = 83A9EF2E116408E5007D5A92 /* PBXBookmark */;
+			83A9EF2F116408E5007D5A92 /* PBXBookmark */ = 83A9EF2F116408E5007D5A92 /* PBXBookmark */;
+			83A9EF30116408E5007D5A92 /* PBXBookmark */ = 83A9EF30116408E5007D5A92 /* PBXBookmark */;
+			83A9EF31116408E5007D5A92 /* PBXBookmark */ = 83A9EF31116408E5007D5A92 /* PBXBookmark */;
+			83A9EF32116408E5007D5A92 /* PBXBookmark */ = 83A9EF32116408E5007D5A92 /* PBXBookmark */;
+			83A9EF4A11640A21007D5A92 /* PBXBookmark */ = 83A9EF4A11640A21007D5A92 /* PBXBookmark */;
+			83A9EF5711640C06007D5A92 /* PBXBookmark */ = 83A9EF5711640C06007D5A92 /* PBXBookmark */;
+			83A9EF5811640C06007D5A92 /* PBXBookmark */ = 83A9EF5811640C06007D5A92 /* PBXBookmark */;
+			83A9EF7311640D79007D5A92 /* PBXBookmark */ = 83A9EF7311640D79007D5A92 /* PBXBookmark */;
+			83B2FE7E1112357F003A5A8E /* PBXTextBookmark */ = 83B2FE7E1112357F003A5A8E /* PBXTextBookmark */;
+			83B2FE7F1112357F003A5A8E /* PBXTextBookmark */ = 83B2FE7F1112357F003A5A8E /* PBXTextBookmark */;
+			83B2FE801112357F003A5A8E /* PBXTextBookmark */ = 83B2FE801112357F003A5A8E /* PBXTextBookmark */;
+			83B2FE821112357F003A5A8E /* PBXTextBookmark */ = 83B2FE821112357F003A5A8E /* PBXTextBookmark */;
+			83CC42E40F8C53FF001DCF5A /* PBXTextBookmark */ = 83CC42E40F8C53FF001DCF5A /* PBXTextBookmark */;
+			83CC42E60F8C53FF001DCF5A /* PBXTextBookmark */ = 83CC42E60F8C53FF001DCF5A /* PBXTextBookmark */;
+			83CE3E2611878D950092A49B /* PBXBookmark */ = 83CE3E2611878D950092A49B /* PBXBookmark */;
+			83CE3E3111878D950092A49B /* PBXBookmark */ = 83CE3E3111878D950092A49B /* PBXBookmark */;
+			83CE3E3611878D950092A49B /* PBXBookmark */ = 83CE3E3611878D950092A49B /* PBXBookmark */;
+			83CE3E3711878D950092A49B /* PBXBookmark */ = 83CE3E3711878D950092A49B /* PBXBookmark */;
+			83CE3E3811878D950092A49B /* PBXBookmark */ = 83CE3E3811878D950092A49B /* PBXBookmark */;
+			83CE3E3911878D950092A49B /* PBXBookmark */ = 83CE3E3911878D950092A49B /* PBXBookmark */;
+			83CE3E3A11878D950092A49B /* PBXBookmark */ = 83CE3E3A11878D950092A49B /* PBXBookmark */;
+			83CE3E3B11878D950092A49B /* PBXBookmark */ = 83CE3E3B11878D950092A49B /* PBXBookmark */;
+			83CE3E3C11878D950092A49B /* PBXBookmark */ = 83CE3E3C11878D950092A49B /* PBXBookmark */;
+			83CE3E3D11878D950092A49B /* PBXBookmark */ = 83CE3E3D11878D950092A49B /* PBXBookmark */;
+			83CE3E3E11878D950092A49B /* PBXBookmark */ = 83CE3E3E11878D950092A49B /* PBXBookmark */;
+			83CE3E3F11878D950092A49B /* PBXBookmark */ = 83CE3E3F11878D950092A49B /* PBXBookmark */;
+			83CE3E4011878D950092A49B /* PBXBookmark */ = 83CE3E4011878D950092A49B /* PBXBookmark */;
+			83CE3E4111878D950092A49B /* PBXBookmark */ = 83CE3E4111878D950092A49B /* PBXBookmark */;
+			83CE3E4211878D950092A49B /* PBXBookmark */ = 83CE3E4211878D950092A49B /* PBXBookmark */;
+			83CE3E4411878D950092A49B /* PBXBookmark */ = 83CE3E4411878D950092A49B /* PBXBookmark */;
+			83CE3E4511878D950092A49B /* PBXBookmark */ = 83CE3E4511878D950092A49B /* PBXBookmark */;
+			83CE3E4711878D950092A49B /* PBXBookmark */ = 83CE3E4711878D950092A49B /* PBXBookmark */;
+			83CE3E4811878D950092A49B /* PBXBookmark */ = 83CE3E4811878D950092A49B /* PBXBookmark */;
+			83CE3E4911878D950092A49B /* PBXBookmark */ = 83CE3E4911878D950092A49B /* PBXBookmark */;
+			83CE3E4A11878D950092A49B /* PBXBookmark */ = 83CE3E4A11878D950092A49B /* PBXBookmark */;
+			83CE3E4B11878D950092A49B /* PBXBookmark */ = 83CE3E4B11878D950092A49B /* PBXBookmark */;
+			83CE3E4D11878D950092A49B /* PBXBookmark */ = 83CE3E4D11878D950092A49B /* PBXBookmark */;
+			83CE3E4E11878D950092A49B /* PBXBookmark */ = 83CE3E4E11878D950092A49B /* PBXBookmark */;
+			83CE3E4F11878D950092A49B /* PBXBookmark */ = 83CE3E4F11878D950092A49B /* PBXBookmark */;
+			83CE3E5011878D950092A49B /* PBXBookmark */ = 83CE3E5011878D950092A49B /* PBXBookmark */;
+			83CE3E5111878D950092A49B /* PBXBookmark */ = 83CE3E5111878D950092A49B /* PBXBookmark */;
+			83CE3E5211878D950092A49B /* PBXBookmark */ = 83CE3E5211878D950092A49B /* PBXBookmark */;
+			83CE3E5311878D950092A49B /* PBXBookmark */ = 83CE3E5311878D950092A49B /* PBXBookmark */;
+			83CE3E5411878D950092A49B /* PBXBookmark */ = 83CE3E5411878D950092A49B /* PBXBookmark */;
+			83CE3E5511878D950092A49B /* PBXBookmark */ = 83CE3E5511878D950092A49B /* PBXBookmark */;
+			83CE3E5611878D950092A49B /* PBXBookmark */ = 83CE3E5611878D950092A49B /* PBXBookmark */;
+			83CE3E5711878D950092A49B /* PBXBookmark */ = 83CE3E5711878D950092A49B /* PBXBookmark */;
+			83CE3E5811878D950092A49B /* PBXBookmark */ = 83CE3E5811878D950092A49B /* PBXBookmark */;
+			83CE3E5911878D950092A49B /* PBXBookmark */ = 83CE3E5911878D950092A49B /* PBXBookmark */;
+			83CE3E5A11878D950092A49B /* PBXBookmark */ = 83CE3E5A11878D950092A49B /* PBXBookmark */;
+			83CE3E5C11878D950092A49B /* PBXBookmark */ = 83CE3E5C11878D950092A49B /* PBXBookmark */;
+			83CE3E5D11878D950092A49B /* PBXBookmark */ = 83CE3E5D11878D950092A49B /* PBXBookmark */;
+			83CE3E5E11878D950092A49B /* PBXBookmark */ = 83CE3E5E11878D950092A49B /* PBXBookmark */;
+			83CE3E5F11878D950092A49B /* PBXBookmark */ = 83CE3E5F11878D950092A49B /* PBXBookmark */;
+			83CE3E6011878D950092A49B /* PBXBookmark */ = 83CE3E6011878D950092A49B /* PBXBookmark */;
+			83CE3E6111878D950092A49B /* PBXBookmark */ = 83CE3E6111878D950092A49B /* PBXBookmark */;
+			83CE3E6211878D950092A49B /* PBXBookmark */ = 83CE3E6211878D950092A49B /* PBXBookmark */;
+			83CE3E6311878D950092A49B /* PBXBookmark */ = 83CE3E6311878D950092A49B /* PBXBookmark */;
+			83CE3E6411878D950092A49B /* PBXBookmark */ = 83CE3E6411878D950092A49B /* PBXBookmark */;
+			83CE3E6511878D950092A49B /* PBXBookmark */ = 83CE3E6511878D950092A49B /* PBXBookmark */;
+			83CE3E6611878D950092A49B /* PBXBookmark */ = 83CE3E6611878D950092A49B /* PBXBookmark */;
+			83CE3E6711878D950092A49B /* PBXBookmark */ = 83CE3E6711878D950092A49B /* PBXBookmark */;
+			83CE3E6811878D950092A49B /* PBXBookmark */ = 83CE3E6811878D950092A49B /* PBXBookmark */;
+			83CE3E6911878D950092A49B /* PBXBookmark */ = 83CE3E6911878D950092A49B /* PBXBookmark */;
+			83CE3E6A11878D950092A49B /* PBXBookmark */ = 83CE3E6A11878D950092A49B /* PBXBookmark */;
+			83CE3E6B11878D950092A49B /* PBXBookmark */ = 83CE3E6B11878D950092A49B /* PBXBookmark */;
+			83CE3E6C11878D950092A49B /* PBXBookmark */ = 83CE3E6C11878D950092A49B /* PBXBookmark */;
+			83CE3E6D11878D950092A49B /* PBXBookmark */ = 83CE3E6D11878D950092A49B /* PBXBookmark */;
+			83CE3E6E11878D950092A49B /* PBXBookmark */ = 83CE3E6E11878D950092A49B /* PBXBookmark */;
+			83CE3E6F11878D950092A49B /* PBXBookmark */ = 83CE3E6F11878D950092A49B /* PBXBookmark */;
+			83CE3E7011878D950092A49B /* PBXBookmark */ = 83CE3E7011878D950092A49B /* PBXBookmark */;
+			83CE3E7111878D950092A49B /* PBXBookmark */ = 83CE3E7111878D950092A49B /* PBXBookmark */;
+			83CE3E7211878D950092A49B /* PBXBookmark */ = 83CE3E7211878D950092A49B /* PBXBookmark */;
+			83CE3E7311878D950092A49B /* PBXBookmark */ = 83CE3E7311878D950092A49B /* PBXBookmark */;
+			83CE3E7411878D950092A49B /* PBXBookmark */ = 83CE3E7411878D950092A49B /* PBXBookmark */;
+			83CE3E7511878D950092A49B /* PBXBookmark */ = 83CE3E7511878D950092A49B /* PBXBookmark */;
+			83CE3E7611878D950092A49B /* PBXBookmark */ = 83CE3E7611878D950092A49B /* PBXBookmark */;
+			83CE3E7711878D950092A49B /* PBXBookmark */ = 83CE3E7711878D950092A49B /* PBXBookmark */;
+			83CE3E7811878D950092A49B /* PBXBookmark */ = 83CE3E7811878D950092A49B /* PBXBookmark */;
+			83CE3ED0118791FE0092A49B /* PBXBookmark */ = 83CE3ED0118791FE0092A49B /* PBXBookmark */;
+			83CE3F611187B5C30092A49B /* PBXTextBookmark */ = 83CE3F611187B5C30092A49B /* PBXTextBookmark */;
+			83CE3F621187B5C30092A49B /* PBXTextBookmark */ = 83CE3F621187B5C30092A49B /* PBXTextBookmark */;
+			83CE3F931187C8930092A49B /* PBXTextBookmark */ = 83CE3F931187C8930092A49B /* PBXTextBookmark */;
+			83CE3F951187C8930092A49B /* PBXBookmark */ = 83CE3F951187C8930092A49B /* PBXBookmark */;
+			83D356D3116E345D00A4AE05 /* PBXTextBookmark */ = 83D356D3116E345D00A4AE05 /* PBXTextBookmark */;
+			83D356D6116E345D00A4AE05 /* PBXTextBookmark */ = 83D356D6116E345D00A4AE05 /* PBXTextBookmark */;
+			83D356EC116E35A900A4AE05 /* PBXBookmark */ = 83D356EC116E35A900A4AE05 /* PBXBookmark */;
+			83D356ED116E35A900A4AE05 /* PlistBookmark */ = 83D356ED116E35A900A4AE05 /* PlistBookmark */;
+			83D356EE116E35A900A4AE05 /* PlistBookmark */ = 83D356EE116E35A900A4AE05 /* PlistBookmark */;
+			83D356EF116E35A900A4AE05 /* PBXTextBookmark */ = 83D356EF116E35A900A4AE05 /* PBXTextBookmark */;
+			83D822210F8D10C7001B5514 /* PBXTextBookmark */ = 83D822210F8D10C7001B5514 /* PBXTextBookmark */;
+			83E1910A11ADEE0600B03913 /* PBXBookmark */ = 83E1910A11ADEE0600B03913 /* PBXBookmark */;
+			83E1910B11ADEE0600B03913 /* PBXTextBookmark */ = 83E1910B11ADEE0600B03913 /* PBXTextBookmark */;
+			83E1910C11ADEE0600B03913 /* PBXTextBookmark */ = 83E1910C11ADEE0600B03913 /* PBXTextBookmark */;
+			83E1910D11ADEE0600B03913 /* PBXTextBookmark */ = 83E1910D11ADEE0600B03913 /* PBXTextBookmark */;
+			83E1910E11ADEE0600B03913 /* PBXTextBookmark */ = 83E1910E11ADEE0600B03913 /* PBXTextBookmark */;
+			83E1910F11ADEE0600B03913 /* PBXTextBookmark */ = 83E1910F11ADEE0600B03913 /* PBXTextBookmark */;
+			83E1911011ADEE0600B03913 /* PBXBookmark */ = 83E1911011ADEE0600B03913 /* PBXBookmark */;
+			83E1911111ADEE0600B03913 /* PBXTextBookmark */ = 83E1911111ADEE0600B03913 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 831445A50F5A91A100362969 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{499, 871}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* wikiHow_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 295}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	83029DAB11873EC700CD7662 /* Self Defense.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 4}, {1440, 874}}";
+		};
+	};
+	8309CC0D1135EC9C00DBC089 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	8309CC0E1135EC9C00DBC089 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	8309CC131135EC9C00DBC089 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	831445850F5A918700362969 /* wikiHow */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = wikiHow;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	831445A50F5A91A100362969 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	831445A60F5A91A100362969 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8332424511656832009BF5E1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83787CB8118265980042E6B8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145404140F5237090015AD29 /* Treat-a-Burn.jpg */;
+	};
+	83787CB9118265980042E6B8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84480FCA0F38ADA700A8CEAA /* Icon.png */;
+	};
+	83A9EF2E116408E5007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF2F116408E5007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF30116408E5007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF31116408E5007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF32116408E5007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF4A11640A21007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF5711640C06007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF5811640C06007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83A9EF7311640D79007D5A92 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	83B2FE7E1112357F003A5A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F790F38AD1900A8CEAA /* NSURL+wikiHow.m */;
+		name = "NSURL+wikiHow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1125;
+		vrLoc = 655;
+	};
+	83B2FE7F1112357F003A5A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F780F38AD1900A8CEAA /* NSURL+wikiHow.h */;
+		name = "NSURL+wikiHow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1120;
+		vrLoc = 120;
+	};
+	83B2FE801112357F003A5A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F770F38AD1900A8CEAA /* NSString+wikiHow.m */;
+		name = "NSString+wikiHow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 1363;
+	};
+	83B2FE821112357F003A5A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F270F38AD1900A8CEAA /* WHNavigationController.h */;
+		name = "WHNavigationController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 309;
+	};
+	83CC42E40F8C53FF001DCF5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F2A0F38AD1900A8CEAA /* WHSearchViewController.m */;
+		name = "WHSearchViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 0;
+	};
+	83CC42E60F8C53FF001DCF5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F840F38AD1900A8CEAA /* SBJSON.m */;
+		name = "SBJSON.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	83CE3E2611878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 972591DB1177997500073068 /* Extreme Scenarios.jpg */;
+	};
+	83CE3E3111878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 972591CD1177993400073068 /* Self Defense.jpg */;
+	};
+	83CE3E3611878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9701AB551145AC1F005020B6 /* Do-CPR-on-an-Adult.jpg */;
+	};
+	83CE3E3711878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9701AB5B1145AC6F005020B6 /* Treat-Poisoning.jpg */;
+	};
+	83CE3E3811878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9701AB591145AC42005020B6 /* Do-First-Aid-on-a-Choking-Baby.jpg */;
+	};
+	83CE3E3911878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 14E2801E0F5631E200832698 /* Get-Your-Car-Out-of-the-Snow.jpg */;
+	};
+	83CE3E3A11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403BD0F5237080015AD29 /* Deliver-a-Baby.jpg */;
+	};
+	83CE3E3B11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403BE0F5237080015AD29 /* Pick-a-Lock.jpg */;
+	};
+	83CE3E3C11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403BF0F5237080015AD29 /* Predict-the-Weather-Without-a-Forecast.jpg */;
+	};
+	83CE3E3D11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C10F5237080015AD29 /* Handle-a-Dog-Attack.jpg */;
+	};
+	83CE3E3E11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C20F5237080015AD29 /* Regain-Control-of-a-Spooked-Camel.jpg */;
+	};
+	83CE3E3F11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C30F5237080015AD29 /* Remove-a-Tick.jpg */;
+	};
+	83CE3E4011878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C40F5237080015AD29 /* Provide-First-Aid-for-a-Broken-Bone.jpg */;
+	};
+	83CE3E4111878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C50F5237080015AD29 /* Help-a-Choking-Victim.jpg */;
+	};
+	83CE3E4211878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C60F5237080015AD29 /* Help-Someone-Who-Is-Having-a-Seizure.jpg */;
+	};
+	83CE3E4411878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C80F5237080015AD29 /* Take-a-Punch.jpg */;
+	};
+	83CE3E4511878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403C90F5237080015AD29 /* Tell-Time-Without-a-Clock.jpg */;
+	};
+	83CE3E4711878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403CB0F5237080015AD29 /* Purify-Water.jpg */;
+	};
+	83CE3E4811878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403CC0F5237080015AD29 /* React-During-an-Earthquake.jpg */;
+	};
+	83CE3E4911878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403CD0F5237080015AD29 /* Report-an-Emergency.jpg */;
+	};
+	83CE3E4A11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D00F5237080015AD29 /* Survive-an-Avalanche.jpg */;
+	};
+	83CE3E4B11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D10F5237080015AD29 /* Survive-an-Encounter-with-a-Crocodile-or-Alligator.jpg */;
+	};
+	83CE3E4D11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D30F5237080015AD29 /* Avoid-a-Rattlesnake-Attack.jpg */;
+	};
+	83CE3E4E11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D40F5237080015AD29 /* Survive-a-Riot.jpg */;
+	};
+	83CE3E4F11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D50F5237080015AD29 /* Rescue-Someone-Who-Has-Fallen-Through-Ice.jpg */;
+	};
+	83CE3E5011878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D60F5237080015AD29 /* Survive-a-School-or-Workplace-Shooting.jpg */;
+	};
+	83CE3E5111878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D70F5237080015AD29 /* Know-When-Ice-is-Safe.jpg */;
+	};
+	83CE3E5211878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D80F5237080015AD29 /* Kick-Down-a-Door.jpg */;
+	};
+	83CE3E5311878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D90F5237080015AD29 /* Calculate-the-Distance-from-Lightning.jpg */;
+	};
+	83CE3E5411878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DA0F5237080015AD29 /* Survive-a-Riptide.jpg */;
+	};
+	83CE3E5511878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DB0F5237080015AD29 /* Run-Up-and-Over-a-Wall.jpg */;
+	};
+	83CE3E5611878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DC0F5237080015AD29 /* Escape-from-a-Bear.jpg */;
+	};
+	83CE3E5711878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DD0F5237080015AD29 /* Escape-from-a-Sinking-Car.jpg */;
+	};
+	83CE3E5811878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DE0F5237080015AD29 /* Escape-a-Minefield.jpg */;
+	};
+	83CE3E5911878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403DF0F5237080015AD29 /* Build-an-Igloo.jpg */;
+	};
+	83CE3E5A11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E00F5237080015AD29 /* Safely-Swim-with-Piranhas.jpg */;
+	};
+	83CE3E5C11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E20F5237080015AD29 /* Calculate-the-Distance-to-the-Horizon.jpg */;
+	};
+	83CE3E5D11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E30F5237080015AD29 /* Find-True-North-Without-a-Compass.jpg */;
+	};
+	83CE3E5E11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E40F5237080015AD29 /* Do-CPR-on-a-Baby.jpg */;
+	};
+	83CE3E5F11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E50F5237080015AD29 /* Get-Emergency-Drinking-Water-from-a-Water-Heater.jpg */;
+	};
+	83CE3E6011878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E60F5237080015AD29 /* Attend-to-a-Stab-Wound.jpg */;
+	};
+	83CE3E6111878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E70F5237080015AD29 /* Get-out-of-Quicksand.jpg */;
+	};
+	83CE3E6211878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E80F5237080015AD29 /* Identify-if-Someone-Had-a-Stroke.jpg */;
+	};
+	83CE3E6311878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403E90F5237080015AD29 /* Fix-a-Dislocated-Shoulder.jpg */;
+	};
+	83CE3E6411878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403EA0F5237080015AD29 /* Open-a-Bottle-with-a-Ring.jpg */;
+	};
+	83CE3E6511878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403EB0F5237080015AD29 /* Survive-a-Gas-Attack.jpg */;
+	};
+	83CE3E6611878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403EC0F5237080015AD29 /* Treat-a-Concussion.jpg */;
+	};
+	83CE3E6711878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403ED0F5237080015AD29 /* Perform-the-Heimlich-Maneuver.jpg */;
+	};
+	83CE3E6811878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403EE0F5237080015AD29 /* Start-a-Fire-with-Sticks.jpg */;
+	};
+	83CE3E6911878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403EF0F5237080015AD29 /* Stop-a-Car-with-No-Brakes.jpg */;
+	};
+	83CE3E6A11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F00F5237080015AD29 /* Stop-a-Nose-Bleed.jpg */;
+	};
+	83CE3E6B11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F10F5237080015AD29 /* Survive-a-Dust-Storm-or-Sandstorm.jpg */;
+	};
+	83CE3E6C11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F20F5237080015AD29 /* Escape-From-the-Trunk-of-a-Car.jpg */;
+	};
+	83CE3E6D11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F30F5237080015AD29 /* Change-a-Tire.jpg */;
+	};
+	83CE3E6E11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F40F5237080015AD29 /* Survive-a-Tsunami.jpg */;
+	};
+	83CE3E6F11878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F50F5237080015AD29 /* Treat-a-Puncture-Wound.jpg */;
+	};
+	83CE3E7011878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F60F5237080015AD29 /* Prepare-for-a-Hurricane.jpg */;
+	};
+	83CE3E7111878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F70F5237080015AD29 /* Land-an-Airplane-in-an-Emergency.jpg */;
+	};
+	83CE3E7211878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F80F5237080015AD29 /* Survive-a-Fall-Through-Ice.jpg */;
+	};
+	83CE3E7311878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403F90F5237080015AD29 /* Stop-Bleeding.jpg */;
+	};
+	83CE3E7411878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FA0F5237080015AD29 /* Jump-Start-a-Car.jpg */;
+	};
+	83CE3E7511878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FB0F5237080015AD29 /* Survive-a-Long-Fall.jpg */;
+	};
+	83CE3E7611878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FC0F5237080015AD29 /* Survive-a-Plane-Crash.jpg */;
+	};
+	83CE3E7711878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FD0F5237080015AD29 /* Build-a-Fire.jpg */;
+	};
+	83CE3E7811878D950092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FE0F5237080015AD29 /* Perform-the-Heimlich-Maneuver-on-Yourself.jpg */;
+	};
+	83CE3ED0118791FE0092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403FF0F5237080015AD29 /* Survive-a-Shark-Attack.jpg */;
+	};
+	83CE3F611187B5C30092A49B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480FC90F38ADA700A8CEAA /* template.html */;
+		name = "template.html: 214";
+		rLen = 0;
+		rLoc = 14784;
+		rType = 0;
+		vrLen = 1647;
+		vrLoc = 10355;
+	};
+	83CE3F621187B5C30092A49B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* wikiHowAppDelegate.h */;
+		name = "wikiHowAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 655;
+	};
+	83CE3F931187C8930092A49B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* wikiHowAppDelegate.m */;
+		name = "wikiHowAppDelegate.m: 228";
+		rLen = 0;
+		rLoc = 9483;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 2200;
+	};
+	83CE3F951187C8930092A49B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403CA0F5237080015AD29 /* Do-Basic-First-Aid.jpg */;
+	};
+	83D356D3116E345D00A4AE05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 145402DC0F5150480015AD29 /* README */;
+		name = "README: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	83D356D6116E345D00A4AE05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* wikiHow_Prefix.pch */;
+		name = "wikiHow_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	83D356EC116E35A900A4AE05 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84480FCB0F38ADA700A8CEAA /* Default.png */;
+	};
+	83D356ED116E35A900A4AE05 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 84480FD10F38ADAF00A8CEAA /* Settings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+		);
+		name = "/Developer/wikiHow app 1.5/Settings.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	83D356EE116E35A900A4AE05 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/wikiHow app 1.5/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	83D356EF116E35A900A4AE05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 499;
+	};
+	83D822210F8D10C7001B5514 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F3E0F38AD1900A8CEAA /* ABTableViewCell.h */;
+		name = "ABTableViewCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1241;
+		vrLoc = 0;
+	};
+	83E1910A11ADEE0600B03913 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 145403D20F5237080015AD29 /* Survive-in-the-Woods.jpg */;
+	};
+	83E1910B11ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9743F31511593F6100A36FDB /* WHSurvivalKitCategoryViewController.h */;
+		name = "WHSurvivalKitCategoryViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 57;
+		vrLoc = 0;
+	};
+	83E1910C11ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F310F38AD1900A8CEAA /* WHSurvivalKitViewController.h */;
+		name = "WHSurvivalKitViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 57;
+		vrLoc = 0;
+	};
+	83E1910D11ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F1E0F38AD0B00A8CEAA /* Constants.h */;
+		name = "Constants.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 130;
+		vrLoc = 309;
+	};
+	83E1910E11ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F760F38AD1900A8CEAA /* NSString+wikiHow.h */;
+		name = "NSString+wikiHow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 121;
+		vrLoc = 378;
+	};
+	83E1910F11ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F220F38AD1900A8CEAA /* WHSearchXMLReader.h */;
+		name = "WHSearchXMLReader.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 57;
+		vrLoc = 0;
+	};
+	83E1911011ADEE0600B03913 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84480F230F38AD1900A8CEAA /* WHSearchXMLReader.m */;
+	};
+	83E1911111ADEE0600B03913 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84480F230F38AD1900A8CEAA /* WHSearchXMLReader.m */;
+		name = "WHSearchXMLReader.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 57;
+		vrLoc = 0;
+	};
+	84480F1E0F38AD0B00A8CEAA /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{309, 130}";
+		};
+	};
+	84480F220F38AD1900A8CEAA /* WHSearchXMLReader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 57}";
+		};
+	};
+	84480F230F38AD1900A8CEAA /* WHSearchXMLReader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 1313}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 57}";
+			sepNavWindowFrame = "{{15, 24}, {1231, 849}}";
+		};
+	};
+	84480F270F38AD1900A8CEAA /* WHNavigationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 490}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{309, 1058}";
+		};
+	};
+	84480F2A0F38AD1900A8CEAA /* WHSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 4424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 439}";
+		};
+	};
+	84480F2C0F38AD1900A8CEAA /* WHArticleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 5782}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 439}";
+		};
+	};
+	84480F2E0F38AD1900A8CEAA /* WHFeaturedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3290}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 439}";
+		};
+	};
+	84480F310F38AD1900A8CEAA /* WHSurvivalKitViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 455}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 57}";
+		};
+	};
+	84480F3E0F38AD1900A8CEAA /* ABTableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 532}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1241}";
+		};
+	};
+	84480F760F38AD1900A8CEAA /* NSString+wikiHow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{378, 121}";
+		};
+	};
+	84480F770F38AD1900A8CEAA /* NSString+wikiHow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{186, 2000}";
+			sepNavWindowFrame = "{{41, 29}, {1231, 849}}";
+		};
+	};
+	84480F780F38AD1900A8CEAA /* NSURL+wikiHow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {420, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{120, 1120}";
+		};
+	};
+	84480F790F38AD1900A8CEAA /* NSURL+wikiHow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {420, 602}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{655, 1125}";
+		};
+	};
+	84480F840F38AD1900A8CEAA /* SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 10360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	84480FC90F38ADA700A8CEAA /* template.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {12787, 2782}}";
+			sepNavSelRange = "{14074, 0}";
+			sepNavVisRange = "{8513, 6104}";
+			sepNavWindowFrame = "{{0, 4}, {1440, 874}}";
+		};
+	};
+	84480FD10F38ADAF00A8CEAA /* Settings.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 67}, {1239, 806}}";
+		};
+	};
+	846EB2EE0F38BAB200C3A460 /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 418}, {750, 558}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{201, 45}, {1239, 806}}";
+		};
+	};
+	972591CD1177993400073068 /* Self Defense.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 4}, {1440, 874}}";
+		};
+	};
+	9743F31511593F6100A36FDB /* WHSurvivalKitCategoryViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 57}";
+		};
+	};
+}
